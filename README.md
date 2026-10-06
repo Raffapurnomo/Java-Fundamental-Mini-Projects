@@ -9,7 +9,7 @@ Projek ini saya kerjakan sebagai langkah awal saya terjun ke dunia IT dan pemrog
 Isi dari repositori ini berisikan kumpulan mini-project yang membantu saya untuk memahami beberapa fondasi penting dalam bahasa pemrograman Java:
 1. **Mesin ATM Sederhana (`atm.java`)**
    Simulasi sistem ATM dengan fitur pembuatan PIN (validasi 6 digit), batas maksimal percobaan *login*, cek saldo, tarik tunai, serta setor tunai.
-2. **Sistem Tikek Bioskop(`bioskop.java`)**
+2. **Sistem Tiket Bioskop(`bioskop.java`)**
    Program kasir yang menghitung total harga tiket berdasarkan jenis studio dan hari, serta menetapkan diskon otomatis jika syarat pemesanan lebih dari 3 tiket sudah terpenuhi.
 3. **Game Tebak Angka(`tebakangka.java`)**
    permainan interaktif menggunakan `java.util.Random` dimana pemain menebak angka 0-100 dengan petunjuk (terlalu besar/terlalu kecil). Program juga menghitung skor akhir pemain.
